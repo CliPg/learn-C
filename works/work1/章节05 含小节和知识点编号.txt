@@ -1,0 +1,72 @@
+05  Pointers and Arrays 
+
+    01  Pointers and Addresses
+
+		5.1.1 Relationship between pointers and addresses
+
+    02  Pointers and Function Arguments
+ 
+		5.2.1 Arguments Passing without pointer
+		5.2.2 Arguments Passing with pointers
+
+    03  Pointers and Arrays
+
+		5.3.1 Pointers
+		5.3.2 About pointers and arrays
+
+    04  Address Arithmetic
+
+		5.4.1 About address arithmetic
+		5.4.2 Increment
+		5.4.3 Decrement
+		5.4.4 Addition of Integer to Pointer
+		5.4.5 Subtraction  of Integer to Pointer
+		5.4.6 Comparison of Pointers
+
+    05  Character Pointers and Functions
+
+		5.5.1 Character pointers
+		5.5.2 Declaration of Character Pointers
+		5.5.3 Strings and Character Pointers
+		5.5.4 Using Character Pointers in Functions
+
+    06  Pointer Arrays
+
+		5.6.1 Declaration of Pointer Arrays
+		5.6.2 Dynamic Allocation of Pointer Arrays
+
+    07  Pointers to Pointers
+
+		5.7.1 How pointers to pointers works
+
+    08  Multi-dimensional Arrays
+
+		5.8.1 Multidimensional arrays in c
+		5.8.2 Size of Multidimensional Arrays
+
+    09  Initialization of Pointer Arrays
+
+		5.9.1 Initializing
+
+    10  Pointers vs Multi-dimensional Arrays
+
+		5.10.1 Pointers and multidimensional arrays
+		5.10.2 Pointers to Multidimensional Arrays
+		
+    11  Command-line Arguments
+
+		5.11.1 Introduction to Command Line Arguments in C
+		5.11.2 Command-Line Arguments in C
+
+    12  Pointers to Functions
+
+		5.12.1	Introduction the pointers to functions
+		5.12.2  Syntax of Function Pointer in C
+
+    13  Complicated Declarations
+
+		5.13.1 What is complicated declarations
+		5.13.2 Steps to Decipher Complicated Declarations
+		5.13.3 Tips for Handling Complicated Declarations
+
+

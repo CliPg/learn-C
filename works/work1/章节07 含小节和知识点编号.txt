@@ -1,0 +1,51 @@
+07  Input and Output 
+
+    01  Standard Input and Output
+
+		7.1.1 Standard I/O
+		7.1.2 The fopen() Function
+		7.1.3 The getc() and putc() Functions
+		7.1.4 The fclose() Function
+
+    02  Formatted Output printf
+
+		7.2.1 Recap
+		7.2.2 Conversion Specifiers
+		7.2.3 Printing Integers
+		7.2.4 Printing Floating-point numbers
+		7.2.5 Printing characters and strings
+
+    03  Variable-length Argument Lists
+
+		7.3.1 About variable length argument lists
+
+    04  Formatted Input Scanf
+
+		7.4.1 scanf()
+
+    05  File Access
+		
+		7.5.1 Steps for File Access
+
+    06  Error Handling Stderr and Exit
+
+		7.6.1 stderr
+		7.6.2 exit()
+		7.6.3 Error Codes
+		7.6.4 Common Error Handling Practices
+
+    07  Line Input and Output
+
+		7.7.1 First look at line input and out put
+		7.7.2 Line Input with fgets()
+		7.7.3 Line Output with fputs()
+
+    08  Miscellaneous Functions
+
+		7.8.1 Memory Allocation
+		7.8.2 Mathematical Functions
+		7.8.3 String Handling
+		7.8.4 File Handling
+		7.8.5 Type Conversion Functions
+		7.8.6 Miscellaneous Utilities
+

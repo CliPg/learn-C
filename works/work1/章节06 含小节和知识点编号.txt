@@ -1,0 +1,42 @@
+06 Structures 
+    01  Basics of Structures
+
+		6.1.1 Struct
+
+    02  Structures and Functions
+
+		6.2.1 Passing Structure Members
+		6.2.2 Using the Structure Address
+		6.2.3 Passing a Structure as an Argument
+
+    03  Arrays of Structures
+
+		6.3.1 Declaring an Array of Structures
+		6.3.2 Identifying Members of an Array of Structures
+
+    04  Pointers to Structures
+
+		6.4.1 Why we use pointers to structers
+
+    05  Self-referential Structures
+
+		6.5.1 What is the Self Referential Structure in C
+
+    06  Table Lookup
+
+		6.6.1 About table lookup
+		6.6.2 Implementation of Table Lookup in C
+
+    07  Typedef 
+
+		6.7.1 About Typedef
+
+    08  Unions
+
+		6.8.1 A quick look to unions
+		6.8.2 Using Unions
+
+    09  Bit-fields
+
+		6.9.1 Bit fields
+		6.9.2 Bit-Field Example

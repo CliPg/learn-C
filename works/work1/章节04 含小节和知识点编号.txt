@@ -1,0 +1,57 @@
+04  Functions and Program Structure
+
+    01  Basics of Functions
+
+		4.1.1 Anatomy of a Function
+
+    02  Functions Returning Non-integers
+
+		4.2.1 Functions Returning Non-integers	
+		4.2.1 Notes about functions returning non-integers
+
+    03  External Variables
+
+		4.3.1 What is External variables
+		4.3.2 Declaration of External Variables
+		4.3.3 Accessing External Variables
+
+    04  Scope Rules
+
+		4.4.1 Scope
+
+    05  Header Files
+
+		4.5.1Using header files in function
+
+    06  Static Variables
+
+		4.6.1 What is static variables
+		4.6.2 Declaration and Initialization of Static Variables
+
+    07  Register Variables
+
+		4.7.1 About register variables
+
+    08  Block Structure
+
+		4.8.1 The block structure
+		4.8.2 Use of Block Structure in function
+
+    09  Initialization
+
+		4.9.1 What is initialization
+		4.9.2 Local Variable Initialization
+		4.9.3 Static Variable Initialization
+		4.9.4 Function Parameters Initialization
+
+    10  Recursion
+
+		4.10.1 About recursion
+		4.10.2 Recursion Revealed
+		4.10.3 Recursion Fundamentals
+
+    11  The C Preprocessor
+
+		4.11.1 Preprocessing:
+		4.11.2 Header Files
+		4.11.3 Macros
